@@ -1,6 +1,0 @@
-column,Q1,Q3,lower_bound,upper_bound,outlier_count
-age,33.0,48.0,10.5,70.5,487
-balance,72.0,1428.0,-1962.0,3462.0,4729
-duration,103.0,319.0,-221.0,643.0,3235
-campaign,1.0,3.0,-2.0,6.0,3064
-previous,0.0,0.0,0.0,0.0,8257
